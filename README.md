@@ -24,20 +24,19 @@
 ## Project Description
 I completed this Computer Science project in Python during my learning period at Trybe, where I developed functions to solve problems and optimize algorithms. This helped me further develop my ability to implement solutions for various everyday problems!
 
-## In this project, I learned and put into practice:
+## In this project, I learned and put into practice
 - Logic
 - Ability to interpret problems
 - Ability to interpret legacy code
 - Ability to optimize problem-solving
 
----
-## According to the project requirements designated by Trybe, I learned how to:
+## According to the project requirements designated by Trybe, I learned how to
 - ✅ Search and return the number of students studying at the same time `(Search Algorithm)`
 - ✅ Implement the test for the encrypt_message function
 - ✅ Return whether the word is a palindrome or not `(Recursion)`
 - ✅ Compare two strings, sort them, and identify if one is an anagram of the other `(Sorting Algorithm)`
 
-#### Bonus Requirements:
+#### Bonus Requirements
 - ❌ Find (if any) and return repeated numbers in a list `(Search Algorithm)`
 - ❌ Return whether the word is a palindrome or not `(Iteration)`
 
@@ -47,14 +46,12 @@ _*I still haven't decided if it's better to leave it this way to demonstrate my 
 
 _*Feedback is welcome.*_
 
----
 ## Stacks
-### BackEnd:
+### BackEnd
 - Python
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Python2.png?raw=true" width="50" height="50" alt="Python Icon" /></a>
 
----
 ## How to run the application?
 - Clone the repository: <br>
 `git clone git@github.com:prtpj1/project-algorithms.git`
@@ -89,23 +86,21 @@ _*Note: If you have any difficulties with the instructions and would like to giv
 ## Descrição do Projeto
 Fiz este projeto de Ciência da Computação em Python, durante meu período de aprendizagem na Trybe, onde desenvolvi funções para resolver problemas e otimizar algoritmos, o que me ajudou a desenvolver mais a minha capacidade de implementar soluções para os mais diversos problemas do dia a dia!
 
-## Nesse projeto, aprendi e coloquei em prática:
+## Nesse projeto, aprendi e coloquei em prática
 - Lógica
 - Capacidade de interpretação de problemas
 - Capacidade de interpretação de um código legado
 - Capacidade de otimizar a resolução de problemas
 
----
-## De acordo com os requisitos do projeto designados pela Trybe aprendi como:
+## De acordo com os requisitos do projeto designados pela Trybe aprendi como
 - ✅ Buscar e retornar o número de estudantes estudando no mesmo horário `(Algoritmo de busca)`
 - ✅ Implementar o teste para a função encrypt_message
 - ✅ Retornar se a palavra é um palíndromo ou não `(Recursividade)`
 - ✅ Comparar duas strings, ordená-las e identificar se uma é um anagrama da outra `(Algoritmo de ordenação)`
 
-#### Requisitos Bônus:
+#### Requisitos Bônus
 - ❌ Encontrar (se houver) em uma lista e retornar números os repetidos `(Algoritmo de busca)`
 - ❌ Retornar se a palavra é um palíndromo ou não `(Iteratividade)`
-
 
 _*OBS: Em alguns projetos alguns requisitos não foram feitos devido a dinâmica acelerada do curso e não por eu não saber como fazê-los. Na época eu apenas precisaria de um pouco mais de tempo.*_
 
@@ -113,14 +108,12 @@ _*Ainda não decidi se é melhor deixar desta forma para demonstrar o meu progre
 
 _*Feedbacks são bem vindos.*_
 
----
 ## Tecnologias Utilizadas
-### BackEnd:
+### BackEnd
 - Python
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Python2.png?raw=true" width="50" height="50" alt="Python Icon" /></a>
 
----
 ## Como rodar a aplicação?
 - Clone o repositório: <br>
 `git clone git@github.com:prtpj1/project-algorithms.git`
@@ -149,7 +142,5 @@ _*Feedbacks são bem vindos.*_
 `is_anagram("perda", "pedra")`<br>
 `is_anagram("teste", "testa")`<br>
 
----
 _*OBS: Se tiver alguma dificuldade com as instruções e quiser dar um feedback me mande uma mensagem*_
 
----
